@@ -19,6 +19,9 @@ b = 8000
 
 print(id(a))
 print(id(b))
+print()
+print()
+
 
 # Camel case  첫글자 소문자  메소드
 # Pacal case   첫글자 대문자  클래스
