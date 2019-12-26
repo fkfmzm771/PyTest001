@@ -7,18 +7,7 @@ print("printTest06")
 
 print('d','d''f','f','o',sep='|')
 
-print(2333,444,555,666,sep='-')
-
-print("{:_>10}".format('asdf'))
-
-
-a = 8000
-b = 8000 * 2
-b = 8000
-
-
-print(id(a))
-print(id(b))
+print(2333,444,555,666,sep='-'); print("{:_>10}".format('asdf')); a = 8000; b = 8000 * 2; b = 8000; print(id(a)); print(id(b))
 print()
 print()
 print()
